@@ -1,0 +1,42 @@
+[33mcommit 2f3ac19dfc244b78c10a2b5844cfec4557bc1757[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Fri Nov 18 20:34:21 2022 +0530
+
+    added gitnore
+
+[33mcommit 96a1ccb191bc5ae7d911d647847598ce3017a9ab[m
+Merge: 0125e6f 27ca22c
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Fri Nov 18 20:29:43 2022 +0530
+
+    Merge branch 'dev'
+
+[33mcommit 27ca22c2c4a859d931d43407d34ed0c7bdeb56e7[m[33m ([m[1;32mprathamesh/branch[m[33m, [m[1;32mdev[m[33m)[m
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Fri Nov 18 20:24:36 2022 +0530
+
+    added branch1.cpp
+
+[33mcommit 0125e6f31635854cf29cb262c613037426ca6ad3[m
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Fri Nov 18 20:05:12 2022 +0530
+
+    added content in new.cpp
+
+[33mcommit 5626201df71a14bd6e10d7d42de9387c08c6dc83[m
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Thu Nov 17 20:52:45 2022 +0530
+
+    modified test.cpp
+
+[33mcommit 9c5c9d95e7c7034e07ebc694d12e3e30b2557072[m
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Thu Nov 17 20:51:55 2022 +0530
+
+    added new.cpp
+
+[33mcommit 17829e431c8aca96ab01bcf16a6539d3da476cfd[m
+Author: Prathamesh Dixit <prathameshdixit1234@gmail.com>
+Date:   Thu Nov 17 20:46:22 2022 +0530
+
+    initial commit
